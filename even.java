@@ -1,4 +1,4 @@
-public class even or odd
+public class evenorodd
 {
 public static void main("enter the num");
 {if(a%2==0)
